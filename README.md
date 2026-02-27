@@ -1,5 +1,5 @@
 # DIGITAL-EVM
-School level project on digital EVM.
+#School level project on digital EVM.
 
 print("-----VOTING TO SELECT THE CARTEL LEADER-----")
 
