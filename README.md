@@ -1,5 +1,6 @@
 # DIGITAL-EVM
 School level project on digital EVM.
+
 print("-----VOTING TO SELECT THE CARTEL LEADER-----")
 
 candidates = ["Elchapito","Elmencho","Pabloescobar","Elchapo"]
